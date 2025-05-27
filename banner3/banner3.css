@@ -1,13 +1,13 @@
-.seccion-banner2{
+.seccion-banner3{
     height: 750px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
     align-items: center;
-    padding: 0 2rem;
+    padding: 0 2.5rem;
 }
-.img-banner2{
+.img-banner3{
     margin-top:10% ;
     width: 100%;
     max-width: 24rem;
@@ -15,16 +15,16 @@
     background-color: gray;
     border-radius: 5px;
 }
-.seccion-banner2 h2{
+.seccion-banner3 h2{
     font-size: 2.6rem;
     margin-top: 6rem;
 }
-.seccion-banner2 p {
+.seccion-banner3 p {
     font-size: 1.6rem;
     color: #646982;
     margin-top: 2rem;
 }
-.div-puntos2 {
+.div-puntos3 {
     width: 100%;
     height: 3rem;
     display: flex;
@@ -33,14 +33,14 @@
     padding: 3rem 0;
 
 }
-.div-puntos2 a {
+.div-puntos3 a {
     display:block ;
     width: 1rem;
     height: 1rem;
     border-radius: 100%;
     background-color: #ffe1ce;
 }
-.div-puntos2 .punto3{
+.div-puntos3 .punto4{
     background-color: #ff7622;
 }
 .bt-next{
