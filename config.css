@@ -4,6 +4,13 @@
     box-sizing: border-box;
 
 }
+body{
+    width: 100%;
+    max-width: 400px;
+    height: 100vh;
+    margin: auto;
+    background-color: #ffffff;
+}
 html{
     font-size: 10px;
     font-family: monospace;
