@@ -124,7 +124,7 @@
 
 }
 .Categories{
-    padding-top: 4.5rem;
+    padding-top: 1.5rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
@@ -154,7 +154,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 8rem;
-    padding-top: 3rem;
+    padding-top: 2rem;
     gap: 1rem;
 }
 .All{
@@ -220,5 +220,75 @@
     font-weight: 700;
     font-size: 1.4rem;
     color: #32343e;
+}
+.Garden{
+    padding-top:20px;
+    display: grid;
+    grid-template-columns: 1fr ;
+    grid-template-rows: 1fr;
+}
+.garden1{
+    background-color: #676767;
+    width: 400px;
+    height: 160px;
+}
+.Rose_garden{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 1fr;
+}
+.Roseee{
+    font-family: monospace;
+    font-weight: 400;
+    font-size: 20px;
+    color: #181c23;
+}
+.Rosegris{
+    display: grid;
+    grid-template-columns:75px 70px 70px 70px;
+    grid-template-rows: 1fr;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: monospace;
+    color: #A0A5BA;
+}
+.Roseamarillo{
+    padding-top: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    
+}
+.estrella{
+    font-size: 16px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.camion{
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.reloj{
+    font-size: 14px;
+    font-weight: 400px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+.Roseegarden{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 1fr;
+}
+.garden2{
+    background-color: #676767;
+    width: 400px;
+    height: 130px;
 }
 
